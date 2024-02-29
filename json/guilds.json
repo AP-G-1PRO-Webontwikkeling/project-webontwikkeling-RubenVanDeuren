@@ -5,7 +5,7 @@
         "colors":["White","Blue"],
         "leader":"Lavinia",
         "guildHall":"Prahv, Spires of Order",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/37/Azorius_Logo.png/revision/latest?cb=20140906165549",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Azorius_Logo.webp?token=GHSAT0AAAAAACNZW726D3GX4CTH77T4OLQMZPAS63A",
         "motto":"My law. My judgment. My Guild"
     },
     {
@@ -14,7 +14,7 @@
         "colors":["Blue","Black"],
         "leader":"Lazav",
         "guildHall":"Duskmantle, House of Shadow",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/6/60/Dimir_Logo.png/revision/latest?cb=20140906165650",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Dimir_Logo.webp?token=GHSAT0AAAAAACNZW727MRSDGHKC4H2TG5FOZPATAMA",
         "motto":"My secrecy. My advantage. My Guild"
     },
     {
@@ -23,7 +23,7 @@
         "colors":["Black","Red"],
         "leader":"Rakdos",
         "guildHall":"Rix Maadi, Dungeon Palace",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Rakdos_Logo.png/revision/latest?cb=20140906165741",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Rakdos_Logo.webp?token=GHSAT0AAAAAACNZW726OIMA6XSPGJWUWESSZPATCNA",
         "motto":"My chaos. My carnage. My Guild"
     },
     {
@@ -32,7 +32,7 @@
         "colors":["Red","Green"],
         "leader":"Borborygmos",
         "guildHall":"Skarrg, the Rage Pits",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/e/e9/Gruul_Logo.png/revision/latest?cb=20140906165706",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Gruul_Logo.webp?token=GHSAT0AAAAAACNZW727LVK7C2BPY7B4YPHEZPATBBA",
         "motto":"My fury. My freedom. My Guild"
     },
     {
@@ -41,7 +41,7 @@
         "colors":["White","Green"],
         "leader":"Trostani",
         "guildHall":"Vitu-Ghazi, the City-Tree",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/0/08/Selesnya_Logo.png/revision/latest?cb=20140906165752",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Selesnya_Logo.webp?token=GHSAT0AAAAAACNZW726Z6DNJAHFHVMMGF32ZPATCYQ",
         "motto":"My belief. My people. My Guild"
     },
     {
@@ -50,7 +50,7 @@
         "colors":["White","Black"],
         "leader":"Tomik Vrona",
         "guildHall":"Orzhova, the Church of Deals",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/38/Orzhov_Logo.png/revision/latest?cb=20140906165729",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Orzhov_Logo.webp?token=GHSAT0AAAAAACNZW727UHFXB3JGZMRS2ROSZPATCBA",
         "motto":"My consecration. My commerce. My Guild"
     },
     {
@@ -59,7 +59,7 @@
         "colors":["Blue","Red"],
         "leader":"Ral Zarek",
         "guildHall":"Nivix, Aerie of the Firemind",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3a/Izzet_Logo.png/revision/latest?cb=20140906165720",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Izzet_Logo.webp?token=GHSAT0AAAAAACNZW727UDX6M3BL45KSYH6EZPATBOA",
         "motto":"My ingenuity. My obsession. My Guild"
     },
     {
@@ -68,7 +68,7 @@
         "colors":["Black","Green"],
         "leader":"Izoni",
         "guildHall":"Svogthos, the Restless Tomb",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/7/76/Golgari_Logo.png/revision/latest?cb=20140906165659",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Golgari_Logo.webp?token=GHSAT0AAAAAACNZW726VCYUH2CM67UXCR3CZPATAXQ",
         "motto":"My darkness. My horde. My Guild"
     },
     {
@@ -77,7 +77,7 @@
         "colors":["White","Red"],
         "leader":"Aurelia",
         "guildHall":"Sunhome, Fortress of the Legion",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/89/Boros_Logo.png/revision/latest?cb=20140906165637",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Boros_Logo.webp?token=GHSAT0AAAAAACNZW726QDKSZ6CBP3LIQ7YQZPAS7ZQ",
         "motto":"My army. My aggression. My Guild"
     },
     {
@@ -86,7 +86,7 @@
         "colors":["Blue","Green"],
         "leader":"Vannifar",
         "guildHall":"Novijen, Heart of Progress",
-        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3e/Simic_Logo.png/revision/latest?cb=20140906165420",
+        "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Selesnya_Logo.webp?token=GHSAT0AAAAAACNZW726Z6DNJAHFHVMMGF32ZPATCYQ",
         "motto":"My vision. My evolution. My Guild"
     }
 ]
