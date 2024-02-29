@@ -6,7 +6,7 @@
         "cmc":3,
         "standardLegal":true,
         "releasedate":"2024-02-09",
-        "image":"https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=648985&type=card",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/tomik.webp?token=GHSAT0AAAAAACNZW7277DARUHU3GMYEDMNSZPATO5Q",
         "rarity":"rare",
         "colorIdentity":["White","Black"],
         "guild":{
@@ -15,7 +15,7 @@
             "colors":["White","Black"],
             "leader":"Tomik Vrona",
             "guildHall":"Orzhova, the Church of Deals",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/38/Orzhov_Logo.png/revision/latest?cb=20140906165729",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Orzhov_Logo.webp?token=GHSAT0AAAAAACNZW727UHFXB3JGZMRS2ROSZPATCBA",
             "motto":"My consecration. My commerce. My Guild"
         }
     },
@@ -26,7 +26,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2018-04-27",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw3R4K1ta8UqxXWdGsrRrdZ-sb3WfdPuKiAyNAdWRRA&s",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/niambi2%C2%B5.webp?token=GHSAT0AAAAAACNZW727IANBZPZL4UJCXSVSZPATOKA",
         "rarity":"rare",
         "colorIdentity":["White","Blue"],
         "guild":{
@@ -35,7 +35,7 @@
             "colors":["White","Blue"],
             "leader":"Lavinia",
             "guildHall":"Prahv, Spires of Order",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/37/Azorius_Logo.png/revision/latest?cb=20140906165549",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Azorius_Logo.webp?token=GHSAT0AAAAAACNZW726D3GX4CTH77T4OLQMZPAS63A",
             "motto":"My law. My judgment. My Guild"
         }
     },
@@ -46,7 +46,7 @@
         "cmc":2,
         "standardLegal":false,
         "releasedate":"2021-04-23",
-        "image":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/5/55/Zimone.jpg/revision/latest?cb=20210324225050",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Zimone.webp?token=GHSAT0AAAAAACNZW727AQHRZ52CLXRCC6OEZPATDVA",
         "rarity":"uncommon",
         "colorIdentity":["Blue","Green"],
         "guild":{
@@ -55,7 +55,7 @@
             "colors":["Blue","Green"],
             "leader":"Vannifar",
             "guildHall":"Novijen, Heart of Progress",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3e/Simic_Logo.png/revision/latest?cb=20140906165420",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Selesnya_Logo.webp?token=GHSAT0AAAAAACNZW726Z6DNJAHFHVMMGF32ZPATCYQ",
             "motto":"My vision. My evolution. My Guild"
         }
     },
@@ -66,7 +66,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2016-09-30",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrNI07mLUToUgFbLm45Hwxe0Rw6QQ4YXUpw&s",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/depala.webp?token=GHSAT0AAAAAACNZW726XIPKK3X2KURLLSXCZPATKZQ",
         "rarity":"rare",
         "colorIdentity":["White","Red"],
         "guild":{
@@ -75,7 +75,7 @@
             "colors":["White","Red"],
             "leader":"Aurelia",
             "guildHall":"Sunhome, Fortress of the Legion",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/89/Boros_Logo.png/revision/latest?cb=20140906165637",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Boros_Logo.webp?token=GHSAT0AAAAAACNZW726QDKSZ6CBP3LIQ7YQZPAS7ZQ",
             "motto":"My army. My aggression. My Guild"
         }
     },
@@ -86,7 +86,7 @@
         "cmc":5,
         "standardLegal":true,
         "releasedate":"2022-09-09",
-        "image":"https://www.google.com/imgres?q=Zar%20Ojanen%2C%20Scion%20of%20Efrava&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D574707%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D574707&docid=qUidGyCsuoKvfM&tbnid=LlQRT_v_dFKxtM&vet=12ahUKEwiLn82d2tCEAxXS8bsIHfQxAz8QM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwiLn82d2tCEAxXS8bsIHfQxAz8QM3oECA4QAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/zar_ojanen.webp?token=GHSAT0AAAAAACNZW727EQBAITVYLMJTQL3GZPATPGQ",
         "rarity":"uncommon",
         "colorIdentity":["White","Green"],
         "guild":{
@@ -95,7 +95,7 @@
             "colors":["White","Green"],
             "leader":"Trostani",
             "guildHall":"Vitu-Ghazi, the City-Tree",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/0/08/Selesnya_Logo.png/revision/latest?cb=20140906165752",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Selesnya_Logo.webp?token=GHSAT0AAAAAACNZW726Z6DNJAHFHVMMGF32ZPATCYQ",
             "motto":"My belief. My people. My Guild"
         }
     },
@@ -106,7 +106,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2006-05-05",
-        "image":"https://www.google.com/imgres?q=Lyzolda%2C%20the%20Blood%20Witch&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D107363%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2Fcard%2FDetails.aspx%3Fmultiverseid%3D107363&docid=MRa72DAhZRHe_M&tbnid=jh8jjDU793lu0M&vet=12ahUKEwir_cfi2tCEAxWi_7sIHcg9BUUQM3oECBMQAA..i&w=223&h=310&hcb=2&ved=2ahUKEwir_cfi2tCEAxWi_7sIHcg9BUUQM3oECBMQAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/lyzolda.webp?token=GHSAT0AAAAAACNZW726WSX6POGTWXUWFHAIZPATLDQ",
         "rarity":"rare",
         "colorIdentity":["Black","Red"],
         "guild":{
@@ -115,7 +115,7 @@
             "colors":["Black","Red"],
             "leader":"Rakdos",
             "guildHall":"Rix Maadi, Dungeon Palace",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Rakdos_Logo.png/revision/latest?cb=20140906165741",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Rakdos_Logo.webp?token=GHSAT0AAAAAACNZW726OIMA6XSPGJWUWESSZPATCNA",
             "motto":"My chaos. My carnage. My Guild"
         }
     },
@@ -126,7 +126,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2020-10-20",
-        "image":"https://www.google.com/imgres?q=Abomination%20of%20Llanowar&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D497785%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D497785&docid=R-v8yKJs83HrPM&tbnid=ci_LXhJe3H52UM&vet=12ahUKEwjXoNrh29CEAxXHhP0HHVrPBV4QM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwjXoNrh29CEAxXHhP0HHVrPBV4QM3oECA4QAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/abomination.webp?token=GHSAT0AAAAAACNZW726T7OM4WRSW3RGHEGWZPATJWA",
         "rarity":"uncommon",
         "colorIdentity":["Black","Green"],
         "guild":{
@@ -135,7 +135,7 @@
             "colors":["Black","Green"],
             "leader":"Izoni",
             "guildHall":"Svogthos, the Restless Tomb",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/7/76/Golgari_Logo.png/revision/latest?cb=20140906165659",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Golgari_Logo.webp?token=GHSAT0AAAAAACNZW726VCYUH2CM67UXCR3CZPATAXQ",
             "motto":"My darkness. My horde. My Guild"
         }
     },
@@ -146,7 +146,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2023-06-23",
-        "image":"https://www.google.com/imgres?q=Bilbo%2C%20Retired%20Burglar&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D617026%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2FPages%2FCard%2FDetails.aspx%3Fmultiverseid%3D617026&docid=BFLTgzf0rw5OKM&tbnid=QVAfR3p617Py3M&vet=12ahUKEwj1u6ij3NCEAxWWhf0HHQZyCTcQM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwj1u6ij3NCEAxWWhf0HHQZyCTcQM3oECA4QAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/bilbo.webp?token=GHSAT0AAAAAACNZW726LFWMN2I2CXBOKHYQZPATKMQ",
         "rarity":"uncommon",
         "colorIdentity":["Blue","Red"],
         "guild":{
@@ -155,7 +155,7 @@
             "colors":["Blue","Red"],
             "leader":"Ral Zarek",
             "guildHall":"Nivix, Aerie of the Firemind",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3a/Izzet_Logo.png/revision/latest?cb=20140906165720",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Izzet_Logo.webp?token=GHSAT0AAAAAACNZW727UDX6M3BL45KSYH6EZPATBOA",
             "motto":"My ingenuity. My obsession. My Guild"
         }
     },
@@ -166,7 +166,7 @@
         "cmc":3,
         "standardLegal":true,
         "releasedate":"2023-05-12",
-        "image":"https://www.google.com/imgres?q=Samut%2C%20Vizier%20of%20Naktamun&imgurl=https%3A%2F%2Fcards.scryfall.io%2Flarge%2Ffront%2Fa%2F0%2Fa0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg%3F1684340837&imgrefurl=https%3A%2F%2Fscryfall.com%2Fcard%2Fmat%2F45%2Fsamut-vizier-of-naktamun&docid=ojw3WNghh_fLsM&tbnid=Wa3C5TBblBc-BM&vet=12ahUKEwiAl6GI3dCEAxW8g_0HHapsDPMQM3oECBMQAA..i&w=672&h=936&hcb=2&ved=2ahUKEwiAl6GI3dCEAxW8g_0HHapsDPMQM3oECBMQAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/samut.webp?token=GHSAT0AAAAAACNZW726HTV2KE3HCX4IJBUEZPATSTQ",
         "rarity":"mythic",
         "colorIdentity":["Red","Green"],
         "guild":{
@@ -175,7 +175,7 @@
             "colors":["Red","Green"],
             "leader":"Borborygmos",
             "guildHall":"Skarrg, the Rage Pits",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/e/e9/Gruul_Logo.png/revision/latest?cb=20140906165706",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Gruul_Logo.webp?token=GHSAT0AAAAAACNZW727LVK7C2BPY7B4YPHEZPATBBA",
             "motto":"My fury. My freedom. My Guild"
         }
     },
@@ -186,7 +186,7 @@
         "cmc":3,
         "standardLegal":false,
         "releasedate":"2018-04-27",
-        "image":"https://www.google.com/imgres?q=Rona%2C%20Disciple%20of%20Gix&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D443091%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D443091&docid=Rbu6zr0zCnBJNM&tbnid=RoWX5FS5YAbk3M&vet=12ahUKEwiXwbXO3tCEAxUdi_0HHbsDDXAQM3oECBMQAA..i&w=223&h=311&hcb=2&ved=2ahUKEwiXwbXO3tCEAxUdi_0HHbsDDXAQM3oECBMQAA",
+        "image":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/rona.webp?token=GHSAT0AAAAAACNZW727YDLVFHGWQYY6TZNSZPATSIA",
         "rarity":"uncommon",
         "colorIdentity":["Blue","Black"],
         "guild":{
@@ -195,7 +195,7 @@
             "colors":["Blue","Black"],
             "leader":"Lazav",
             "guildHall":"Duskmantle, House of Shadow",
-            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/6/60/Dimir_Logo.png/revision/latest?cb=20140906165650",
+            "emblem":"https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-RubenVanDeuren/main/img/Dimir_Logo.webp?token=GHSAT0AAAAAACNZW727MRSDGHKC4H2TG5FOZPATAMA",
             "motto":"My secrecy. My advantage. My Guild"
         }
     }
