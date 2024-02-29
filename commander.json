@@ -1,0 +1,203 @@
+[
+    {
+        "id":"MTG-01",
+        "name":"Tomik, Wielder of Law",
+        "oracle":"Affinity for planeswalkers (This spell costs {1} less to cast for each planeswalker you control.) Flying, vigilance Whenever an opponent attacks with creatures, if two or more of those creatures are attacking you and/or planeswalkers you control, that opponent loses 3 life and you draw a card.",
+        "cmc":3,
+        "standardLegal":true,
+        "releasedate":"2024-02-09",
+        "image":"https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=648985&type=card",
+        "rarity":"rare",
+        "colorIdentity":["White","Black"],
+        "guild":{
+            "id":"guilds-06",
+            "name":"Orzhov Syndicate",
+            "colors":["White","Black"],
+            "leader":"Tomik Vrona",
+            "guildHall":"Orzhova, the Church of Deals",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/38/Orzhov_Logo.png/revision/latest?cb=20140906165729",
+            "motto":"My consecration. My commerce. My Guild"
+        }
+    },
+    {
+        "id":"MTG-02",
+        "name":"Niambi, Faithful Healer",
+        "oracle":"When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2018-04-27",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgw3R4K1ta8UqxXWdGsrRrdZ-sb3WfdPuKiAyNAdWRRA&s",
+        "rarity":"rare",
+        "colorIdentity":["White","Blue"],
+        "guild":{
+            "id":"guilds-01",
+            "name":"Azorius Senate",
+            "colors":["White","Blue"],
+            "leader":"Lavinia",
+            "guildHall":"Prahv, Spires of Order",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/37/Azorius_Logo.png/revision/latest?cb=20140906165549",
+            "motto":"My law. My judgment. My Guild"
+        }
+    },
+    {
+        "id":"MTG-03",
+        "name":"Zimone, Quandrix Prodigy",
+        "oracle":"{1}, {T}: You may put a land card from your hand onto the battlefield tapped. {4}, {T}: Draw a card. If you control eight or more lands, draw two cards instead.",
+        "cmc":2,
+        "standardLegal":false,
+        "releasedate":"2021-04-23",
+        "image":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/5/55/Zimone.jpg/revision/latest?cb=20210324225050",
+        "rarity":"uncommon",
+        "colorIdentity":["Blue","Green"],
+        "guild":{
+            "id":"guilds-10",
+            "name":"Simic Combine",
+            "colors":["Blue","Green"],
+            "leader":"Vannifar",
+            "guildHall":"Novijen, Heart of Progress",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3e/Simic_Logo.png/revision/latest?cb=20140906165420",
+            "motto":"My vision. My evolution. My Guild"
+        }
+    },
+    {
+        "id":"MTG-04",
+        "name":"Depala, Pilot Exemplar",
+        "oracle":"Other Dwarves you control get +1/+1. Each Vehicle you control gets +1/+1 as long as it's a creature. Whenever Depala, Pilot Exemplar becomes tapped, you may pay {X}. If you do, reveal the top X cards of your library, put all Dwarf and Vehicle cards from among them into your hand, then put the rest on the bottom of your library in a random order.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2016-09-30",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrNI07mLUToUgFbLm45Hwxe0Rw6QQ4YXUpw&s",
+        "rarity":"rare",
+        "colorIdentity":["White","Red"],
+        "guild":{
+            "id":"guilds-09",
+            "name":"Boros Legion",
+            "colors":["White","Red"],
+            "leader":"Aurelia",
+            "guildHall":"Sunhome, Fortress of the Legion",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/89/Boros_Logo.png/revision/latest?cb=20140906165637",
+            "motto":"My army. My aggression. My Guild"
+        }
+    },
+    {
+        "id":"MTG-05",
+        "name":"Zar Ojanen, Scion of Efrava",
+        "oracle":"Domain — Whenever Zar Ojanen, Scion of Efrava becomes tapped, put a +1/+1 counter on each creature you control with toughness less than the number of basic land types among lands you control.",
+        "cmc":5,
+        "standardLegal":true,
+        "releasedate":"2022-09-09",
+        "image":"https://www.google.com/imgres?q=Zar%20Ojanen%2C%20Scion%20of%20Efrava&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D574707%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D574707&docid=qUidGyCsuoKvfM&tbnid=LlQRT_v_dFKxtM&vet=12ahUKEwiLn82d2tCEAxXS8bsIHfQxAz8QM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwiLn82d2tCEAxXS8bsIHfQxAz8QM3oECA4QAA",
+        "rarity":"uncommon",
+        "colorIdentity":["White","Green"],
+        "guild":{
+            "id":"guilds-05",
+            "name":"Selesnya Conclave",
+            "colors":["White","Green"],
+            "leader":"Trostani",
+            "guildHall":"Vitu-Ghazi, the City-Tree",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/0/08/Selesnya_Logo.png/revision/latest?cb=20140906165752",
+            "motto":"My belief. My people. My Guild"
+        }
+    },
+    {
+        "id":"MTG-06",
+        "name":"Lyzolda, the Blood Witch",
+        "oracle":"{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to any target if the sacrificed creature was red. Draw a card if the sacrificed creature was black.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2006-05-05",
+        "image":"https://www.google.com/imgres?q=Lyzolda%2C%20the%20Blood%20Witch&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D107363%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2Fcard%2FDetails.aspx%3Fmultiverseid%3D107363&docid=MRa72DAhZRHe_M&tbnid=jh8jjDU793lu0M&vet=12ahUKEwir_cfi2tCEAxWi_7sIHcg9BUUQM3oECBMQAA..i&w=223&h=310&hcb=2&ved=2ahUKEwir_cfi2tCEAxWi_7sIHcg9BUUQM3oECBMQAA",
+        "rarity":"rare",
+        "colorIdentity":["Black","Red"],
+        "guild":{
+            "id":"guilds-03",
+            "name":"Cult of Rakdos",
+            "colors":["Black","Red"],
+            "leader":"Rakdos",
+            "guildHall":"Rix Maadi, Dungeon Palace",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Rakdos_Logo.png/revision/latest?cb=20140906165741",
+            "motto":"My chaos. My carnage. My Guild"
+        }
+    },
+    {
+        "id":"MTG-07",
+        "name":"Abomination of Llanowar",
+        "oracle":"Vigilance; menace (This creature can't be blocked except by two or more creatures.) Abomination of Llanowar's power and toughness are each equal to the number of Elves you control plus the number of Elf cards in your graveyard.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2020-10-20",
+        "image":"https://www.google.com/imgres?q=Abomination%20of%20Llanowar&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D497785%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D497785&docid=R-v8yKJs83HrPM&tbnid=ci_LXhJe3H52UM&vet=12ahUKEwjXoNrh29CEAxXHhP0HHVrPBV4QM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwjXoNrh29CEAxXHhP0HHVrPBV4QM3oECA4QAA",
+        "rarity":"uncommon",
+        "colorIdentity":["Black","Green"],
+        "guild":{
+            "id":"guilds-08",
+            "name":"Golgari Swarm",
+            "colors":["Black","Green"],
+            "leader":"Izoni",
+            "guildHall":"Svogthos, the Restless Tomb",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/7/76/Golgari_Logo.png/revision/latest?cb=20140906165659",
+            "motto":"My darkness. My horde. My Guild"
+        }
+    },
+    {
+        "id":"MTG-08",
+        "name":"Bilbo, Retired Burglar",
+        "oracle":"When Bilbo, Retired Burglar enters or leaves the battlefield, the Ring tempts you. Whenever Bilbo deals combat damage to a player, create a Treasure token.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2023-06-23",
+        "image":"https://www.google.com/imgres?q=Bilbo%2C%20Retired%20Burglar&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D617026%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2FPages%2FCard%2FDetails.aspx%3Fmultiverseid%3D617026&docid=BFLTgzf0rw5OKM&tbnid=QVAfR3p617Py3M&vet=12ahUKEwj1u6ij3NCEAxWWhf0HHQZyCTcQM3oECA4QAA..i&w=265&h=370&hcb=2&ved=2ahUKEwj1u6ij3NCEAxWWhf0HHQZyCTcQM3oECA4QAA",
+        "rarity":"uncommon",
+        "colorIdentity":["Blue","Red"],
+        "guild":{
+            "id":"guilds-07",
+            "name":"Izzet League",
+            "colors":["Blue","Red"],
+            "leader":"Ral Zarek",
+            "guildHall":"Nivix, Aerie of the Firemind",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3a/Izzet_Logo.png/revision/latest?cb=20140906165720",
+            "motto":"My ingenuity. My obsession. My Guild"
+        }
+    },
+    {
+        "id":"MTG-09",
+        "name":"Samut, Vizier of Naktamun",
+        "oracle":"First strike, vigilance, haste Whenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "cmc":3,
+        "standardLegal":true,
+        "releasedate":"2023-05-12",
+        "image":"https://www.google.com/imgres?q=Samut%2C%20Vizier%20of%20Naktamun&imgurl=https%3A%2F%2Fcards.scryfall.io%2Flarge%2Ffront%2Fa%2F0%2Fa0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg%3F1684340837&imgrefurl=https%3A%2F%2Fscryfall.com%2Fcard%2Fmat%2F45%2Fsamut-vizier-of-naktamun&docid=ojw3WNghh_fLsM&tbnid=Wa3C5TBblBc-BM&vet=12ahUKEwiAl6GI3dCEAxW8g_0HHapsDPMQM3oECBMQAA..i&w=672&h=936&hcb=2&ved=2ahUKEwiAl6GI3dCEAxW8g_0HHapsDPMQM3oECBMQAA",
+        "rarity":"mythic",
+        "colorIdentity":["Red","Green"],
+        "guild":{
+            "id":"guilds-04",
+            "name":"Gruul Clans",
+            "colors":["Red","Green"],
+            "leader":"Borborygmos",
+            "guildHall":"Skarrg, the Rage Pits",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/e/e9/Gruul_Logo.png/revision/latest?cb=20140906165706",
+            "motto":"My fury. My freedom. My Guild"
+        }
+    },
+    {
+        "id":"MTG-010",
+        "name":"Rona, Disciple of Gix",
+        "oracle":"When Rona, Disciple of Gix enters the battlefield, you may exile target historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.) You may cast spells from among cards exiled with Rona. {4}, {T}: Exile the top card of your library.",
+        "cmc":3,
+        "standardLegal":false,
+        "releasedate":"2018-04-27",
+        "image":"https://www.google.com/imgres?q=Rona%2C%20Disciple%20of%20Gix&imgurl=https%3A%2F%2Fgatherer.wizards.com%2FHandlers%2FImage.ashx%3Fmultiverseid%3D443091%26type%3Dcard&imgrefurl=https%3A%2F%2Fgatherer.wizards.com%2Fpages%2FCard%2FDetails.aspx%3Fmultiverseid%3D443091&docid=Rbu6zr0zCnBJNM&tbnid=RoWX5FS5YAbk3M&vet=12ahUKEwiXwbXO3tCEAxUdi_0HHbsDDXAQM3oECBMQAA..i&w=223&h=311&hcb=2&ved=2ahUKEwiXwbXO3tCEAxUdi_0HHbsDDXAQM3oECBMQAA",
+        "rarity":"uncommon",
+        "colorIdentity":["Blue","Black"],
+        "guild":{
+            "id":"guilds-02",
+            "name":"House Dimir",
+            "colors":["Blue","Black"],
+            "leader":"Lazav",
+            "guildHall":"Duskmantle, House of Shadow",
+            "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/6/60/Dimir_Logo.png/revision/latest?cb=20140906165650",
+            "motto":"My secrecy. My advantage. My Guild"
+        }
+    }
+    
+]

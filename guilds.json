@@ -1,0 +1,92 @@
+[
+    {
+        "id":"guilds-01",
+        "name":"Azorius Senate",
+        "colors":["White","Blue"],
+        "leader":"Lavinia",
+        "guildHall":"Prahv, Spires of Order",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/37/Azorius_Logo.png/revision/latest?cb=20140906165549",
+        "motto":"My law. My judgment. My Guild"
+    },
+    {
+        "id":"guilds-02",
+        "name":"House Dimir",
+        "colors":["Blue","Black"],
+        "leader":"Lazav",
+        "guildHall":"Duskmantle, House of Shadow",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/6/60/Dimir_Logo.png/revision/latest?cb=20140906165650",
+        "motto":"My secrecy. My advantage. My Guild"
+    },
+    {
+        "id":"guilds-03",
+        "name":"Cult of Rakdos",
+        "colors":["Black","Red"],
+        "leader":"Rakdos",
+        "guildHall":"Rix Maadi, Dungeon Palace",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Rakdos_Logo.png/revision/latest?cb=20140906165741",
+        "motto":"My chaos. My carnage. My Guild"
+    },
+    {
+        "id":"guilds-04",
+        "name":"Gruul Clans",
+        "colors":["Red","Green"],
+        "leader":"Borborygmos",
+        "guildHall":"Skarrg, the Rage Pits",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/e/e9/Gruul_Logo.png/revision/latest?cb=20140906165706",
+        "motto":"My fury. My freedom. My Guild"
+    },
+    {
+        "id":"guilds-05",
+        "name":"Selesnya Conclave",
+        "colors":["White","Green"],
+        "leader":"Trostani",
+        "guildHall":"Vitu-Ghazi, the City-Tree",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/0/08/Selesnya_Logo.png/revision/latest?cb=20140906165752",
+        "motto":"My belief. My people. My Guild"
+    },
+    {
+        "id":"guilds-06",
+        "name":"Orzhov Syndicate",
+        "colors":["White","Black"],
+        "leader":"Tomik Vrona",
+        "guildHall":"Orzhova, the Church of Deals",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/38/Orzhov_Logo.png/revision/latest?cb=20140906165729",
+        "motto":"My consecration. My commerce. My Guild"
+    },
+    {
+        "id":"guilds-07",
+        "name":"Izzet League",
+        "colors":["Blue","Red"],
+        "leader":"Ral Zarek",
+        "guildHall":"Nivix, Aerie of the Firemind",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3a/Izzet_Logo.png/revision/latest?cb=20140906165720",
+        "motto":"My ingenuity. My obsession. My Guild"
+    },
+    {
+        "id":"guilds-08",
+        "name":"Golgari Swarm",
+        "colors":["Black","Green"],
+        "leader":"Izoni",
+        "guildHall":"Svogthos, the Restless Tomb",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/7/76/Golgari_Logo.png/revision/latest?cb=20140906165659",
+        "motto":"My darkness. My horde. My Guild"
+    },
+    {
+        "id":"guilds-09",
+        "name":"Boros Legion",
+        "colors":["White","Red"],
+        "leader":"Aurelia",
+        "guildHall":"Sunhome, Fortress of the Legion",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/89/Boros_Logo.png/revision/latest?cb=20140906165637",
+        "motto":"My army. My aggression. My Guild"
+    },
+    {
+        "id":"guilds-10",
+        "name":"Simic Combine",
+        "colors":["Blue","Green"],
+        "leader":"Vannifar",
+        "guildHall":"Novijen, Heart of Progress",
+        "emblem":"https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/3/3e/Simic_Logo.png/revision/latest?cb=20140906165420",
+        "motto":"My vision. My evolution. My Guild"
+    }
+]
